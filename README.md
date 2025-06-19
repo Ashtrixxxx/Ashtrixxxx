@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashtrixxxx&label=Profile%20views&color=0e75b6&style=flat" alt="ashtrixxxx" /> </p>
 
-- 🔭 I’m currently working on **Full Stack MERN Application**
+- 🔭 I’m currently working as a Associate Software Engineer in **Hexaware Technologies**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3JO7rHn](https://bit.ly/3JO7rHn)
 
