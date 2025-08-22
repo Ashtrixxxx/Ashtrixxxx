@@ -38,7 +38,7 @@
 <h3>🛠️ Languages & Tools</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,c,cs,dotnet,express,node,java,js,mongodb,mssql,nodejs,react" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=azure,c,cs,dotnet,express,nodejs,java,js,mongodb,sql,nodejs,react" alt="skills" />
 </p>
 
 ---
