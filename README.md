@@ -13,8 +13,7 @@
 - 🔭 Passionate about building scalable web & cloud solutions with Microsoft technologies
 - 🎯 Always eager to learn and explore new tech stacks
 
-- 👨‍💻 **Portfolio:** [bit.ly/3JO7rHn](https://bit.ly/3JO7rHn)
-- 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1K4uVtAy_yC-grMmUtVtLNaEyzpGU8WNX/view?usp=sharing)
+- 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1uyPFfXoAAf6mNuG_6lIaK3HTpje6zqY6/view?usp=drivesdk)
 - 📫 **Reach out:** ashwin94429@gmail.com
 
 ---
@@ -58,8 +57,7 @@
 <h3>💡 Fun Facts</h3>
 <ul>
   <li>🌏 I love exploring new tech communities and open source projects.</li>
-  <li>☕ Coffee & code is my go-to productivity combo.</li>
-  <li>✨ Always up for a hackathon or coding challenge!</li>
+  <li>☕ Coffee & code is my go-to productivity combo.</li>  
 </ul>
 
 ---
